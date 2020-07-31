@@ -9,5 +9,5 @@
 import Foundation
 
 func hello() {
-    print("Hello World")
+    print("Hello New York")
 }
